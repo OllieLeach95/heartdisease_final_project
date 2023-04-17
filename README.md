@@ -35,8 +35,8 @@ Visualisations:
 3. tree.png - Tree.dot converted to png
 
 Streamlit:
-capstonescript.py - Python file to run the streamlit app.
-randund_version3_random_forest.pkl - Model referenced in the script.
+1. capstonescript.py - Python file to run the streamlit app.
+2. randund_version3_random_forest.pkl - Model referenced in the script.
 
 
 Requirements:
