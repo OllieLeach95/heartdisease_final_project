@@ -3,6 +3,7 @@
 ### <center> https://github.com/OllieLeach95
 
 # Title: CardioCare: Personalised Heart Disease Risk Assessment and Lifestyle Improvement Plan.
+# TLDR: For those of you who dont have time to read through an entire repository, I've  recorded a quick 3 minute video that covers the project at a high level. https://www.loom.com/share/d13676c6cdda48749917d3c777b8d5f7
 
 Cardiovascular disease (CVD) is the leading cause of death worldwide. In the USA alone, CVD is estimated to cost $555 billion per year, but early intervention is proven to reduce the financial burden. For every $1 spent on preventive measures an estimated $7 can be saved in the long run. 
 
